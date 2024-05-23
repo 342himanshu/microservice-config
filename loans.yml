@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Himanshu Kumar - Developer"
+    email: "himanshu@eazybank.com"
+  onCallSupport:
+    - 8804600000
+    - 8825260000

@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Ajantha Ray - Prod Lead"
+    email: "ajantha@eazybank.com"
+  onCallSupport:
+    - 8804600000
+    - 8825260000
