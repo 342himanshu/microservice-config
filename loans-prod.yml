@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+loans:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Ajantha Ray - Prod Lead"
