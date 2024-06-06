@@ -1,6 +1,6 @@
 build:
   version: "3.0"
-accounts:
+cards:
   message: "Welcome to EazyBank accounts related default APIs"
   contactDetails:
     name: "Himanshu Kumar - Developer"
