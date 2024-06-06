@@ -1,6 +1,6 @@
 build:
   version: "3.0"
-accounts:
+loans:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
     name: "Himanshu Kumar - Developer"
